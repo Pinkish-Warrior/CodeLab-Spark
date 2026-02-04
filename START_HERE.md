@@ -22,7 +22,7 @@ You can use the `codelab` to:
 *   **See how things work:** Look through the code to understand how different parts of the application fit together.
 *   **Check for mistakes:** Run special checks (called tests) to make sure the code works correctly.
 
-For more details on how the `codelab` is put together or how to run it, please look at the
+For more details on how the `codelab` is put together or how to run it, please look at the CodeLab's
      [README.md](https://github.com/Pinkish-Warrior/CodeLab/blob/main/README.md)
 
 We're excited to have you on board! If you have any questions, don't hesitate to ask!
